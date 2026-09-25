@@ -1,0 +1,1 @@
+![Main Visual](https://cdna.artstation.com/p/assets/images/images/016/569/400/medium/miyamoto-shota-screenshot00029.jpg?1552637897)

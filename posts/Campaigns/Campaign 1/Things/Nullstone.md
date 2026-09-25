@@ -1,0 +1,2 @@
+# Nullstone
+Often forming in small clusters closer to planet cores, nullstone is a rare crystal found on all 12 planes of existence. It is made of a solidified form of [[Zero Plane]] energy. When properly charged, nullstone has the capabilities to separate soul from creatures and withhold 

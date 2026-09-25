@@ -1,0 +1,1 @@
+![Path between the crypts](https://cdna.artstation.com/p/assets/images/images/070/378/436/medium/laszlo-szabados-beauty-01.jpg?1702397478)

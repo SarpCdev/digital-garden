@@ -1,0 +1,6 @@
+- Exotic weapon training (from Valda's) is unlocked on a weapon-by-weapon basis. If you have martial weapon training, you can use an exotic weapon (given you meet its requirements). Once you use the weapon (as your primary weapon) for a level up, you gain proficiency in that specific weapon. Until then, you do not add prof. bonus to attacks made with that weapon.
+- If you use a potion in combat, you may use your action to arcana check the potion. If roll is high enough, you use your bonus action to use the potion for max healing. No other actions may be done in that turn. Giving another player a potion requires an action
+- Help action for mental abilities (INT, WIS, and CHA) does not grant advantage. Instead, all involved players will rolls and add their individual rolls. Depending on what the check is for, the DC will get more challenging as more players use the help action
+- NAT20 on initiative roll lets you choose where you go on initative
+- Players who have the same initiative can combo their attacks. A combo attack must make logical sense and will use up the reactions of both players for that turn.
+- 

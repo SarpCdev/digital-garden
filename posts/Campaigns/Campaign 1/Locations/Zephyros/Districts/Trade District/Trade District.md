@@ -1,0 +1,1 @@
+![Final Concept Artwork (Berwin &amp; Cristela walking along the bustling market of Libram)](https://cdna.artstation.com/p/assets/images/images/048/618/328/medium/edrian-lubrica-final-environment-key-frame-1.jpg?1650489223)
